@@ -18,6 +18,8 @@ In the realm of cybersecurity, vigilance is key. One way malicious actors might 
 
 - Cleanup and Restoration: After scanning, the script cleans up by deleting the temporary decompressed files and renames the original file back to its initial extension, ensuring no residual clutter or changes.
 
+![detecting canary tokens and seed files](https://github.com/Lupovis/DetectingCanaryTokens/assets/998733/08625785-7958-444f-aeac-ac5887e10981)
+
 ## Using the Script: 
 
 - To use the script, you need a basic Python environment and some understanding of file paths and regular expressions. Here's how you can deploy and utilize this script:
