@@ -1,4 +1,4 @@
-# How to Detect Suspicious Microsoft Office Files with Python 
+# How to Detect Canary and Seed Microsoft Office Files with Python Without Triggering an Alert
 
  ## Introduction: 
 
